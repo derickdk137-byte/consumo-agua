@@ -33,30 +33,13 @@ No terminal, execute:
 python3 --version
 ```
 
-### 2. Instale o Tkinter
-
-No Ubuntu, Debian ou Linux Mint, execute:
-
-```bash
-sudo apt update
-sudo apt install python3-tk
-```
-
-Para verificar a instalação:
-
-```bash
-python3 -c 'import tkinter; print("Tkinter instalado com sucesso!")'
-```
-
-### 3. Execute o programa
+### 2. Execute o programa
 
 Abra o terminal na pasta em que o arquivo do programa está salvo e execute:
 
 ```bash
-python3 Derick_Prado_Ag7_DS_I.py
+python3 consumo-agua.py
 ```
-
-Caso o arquivo tenha outro nome, substitua `Derick_Prado_Ag7_DS_I.py` pelo nome correspondente.
 
 ## 📋 Regras de classificação
 
